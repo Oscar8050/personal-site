@@ -32,7 +32,7 @@ degrees:
   timeframe: 2020-2024
   institution:
     name: National Taiwan University
-    url: "https://www.ntu.edu.tw"
+    url: "https://www.ntu.edu.tw/english/index.html"
   #grade: #(optional)
   #  scale: CGPA
   #  achieved: 3.5
@@ -75,10 +75,10 @@ degrees:
 - name: High School Certificate
   #icon: fa-university
   icon: fa-school
-  timeframe: 2016-2020
+  timeframe: 2017-2020
   institution:
     name: Wu-Ling Senior High School
-    url: "#"
+    url: "https://www.wlsh.tyc.edu.tw/index.php"
   #grade: #(optional)
   #  scale: GPA
   #  achieved: 5

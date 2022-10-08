@@ -12,13 +12,13 @@ designation: Computer Science Student
 # your company information
 company:
   name: National Taiwan University
-  url: "https://www.ntu.edu.tw"
+  url: "https://www.ntu.edu.tw/english/index.html"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate student with years of project experience. I am dedicated to mataining server and website in my department. I am always curious about new technology and not afraid to try new things. Please read my personal website thoroughly to know more about me.'
+summary: 'I am a passionate student with years of project experience. I am dedicated to maintaining servers and websites in my department. I am always curious about new technology and not afraid to try new things. Please read my personal website thoroughly to know more about me.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
