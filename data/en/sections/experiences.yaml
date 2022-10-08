@@ -11,9 +11,9 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Academia Sinica (AS).
+    name: Academia Sinica (AS)
     url: "https://www.sinica.edu.tw/ch"
-    location: Taipei, Taiwan
+    location: Taiwan
     overview: Academia Sinica (AS) is responsible for enhancing the value of research and nurturing young scholars.
   positions:
   - designation: Intern
@@ -23,6 +23,43 @@ experiences:
     - Open data Analysis (satellite image)
     - Time series data Analysis (Civil IoT Taiwan data)
 
+- company:
+    name: NASA (wslab)
+    url: "https://wslab.csie.ntu.edu.tw"
+    location: NTU
+    overview: Network administration and system administation (NASA) team is responsible for maintaing servers and providing services in NTU CSIE department.
+  positions:
+  - designation: Administrator
+    start: Jan 2021
+    end: Now
+    responsibilities:
+    -  Maintain system and network infrastructure (mail service-smtp, imap, mx server) in my department.
+    - Trained in three semesters with the knowledge of DNS, container, linux, nginx, script language, etc.
+
+- company:
+    name: Sprout
+    url: "https://sprout.tw/spt/"
+    location: NTU
+    overview: Sprout is an organization dedicated to providing programming courses for senior high students.
+  positions:
+  - designation: Administrator & Web Developer
+    start: Jan 2020
+    end: Now
+    responsibilities:
+    - Maintain official website for hundreds of students to enroll for programming courses.
+    - Maintain Online Judge for the need of courses and add new features.
+- company:
+    name: NTU PA team
+    url: "https://www.facebook.com/NTUPAteam"
+    location: NTU
+    overview: NTU PA team is an organization dedicated in education of sound and light system on the stage.
+  positions:
+  - designation: Administrator
+    start: Jul 2021
+    end: Aug 2022
+    responsibilities:
+    - Maintain all the network devices such like NAS, router, AP, server, etc.
+    - Manage the access to the wireless network for the team members with WPA2-enterprise authentication.
 #- company:
 #    name: Example Co.
 #    url: "https://www.example.com"
@@ -61,15 +98,3 @@ experiences:
 #    - Write lots of example codes.
 #    - Read lots of examples.
 #    - See lots of example videos.
-- company:
-    name: Academia Sinica (AS).
-    url: "https://www.sinica.edu.tw/ch"
-    location: Taipei, Taiwan
-    overview: Academia Sinica (AS) is responsible for enhancing the value of research and nurturing young scholars.
-  positions:
-  - designation: Intern
-    start: Jul 2020
-    end: Aug 2020
-    responsibilities:
-    - Open data Analysis (satellite image)
-    - Time series data Analysis (Civil IoT Taiwan data)

@@ -69,9 +69,9 @@ degrees:
 #  - title: Fusce eu augue ut odio porttitor pulvinar.
 #    url: "#"
   extracurricularActivities: #(optional)
-  - GIS
+  - Global Initiatives Symposium in Taiwan (GIS Taiwan)
   - NTU PA Team
-  - ICL
+  - International Companions for Learning (ICL)
 - name: High School Certificate
   #icon: fa-university
   icon: fa-school
